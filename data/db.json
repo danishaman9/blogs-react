@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates ipsam quibusdam vitae et incidunt laborum totam veritatis nihil vel accusamus amet consequuntur architecto cupiditate odio modi ratione odit nesciunt harum, aperiam obcaecati cumque eaque quaerat eligendi. Quae, fugit dolorum animi ut ratione ea voluptatibus perspiciatis temporibus saepe. Voluptatibus, voluptates excepturi! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi dolores quam debitis eligendi nam praesentium doloremque sit sint voluptatibus natus perferendis, fuga incidunt voluptate consequuntur, reiciendis dolore alias rem. Ad, voluptatibus doloremque.",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome party",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates ipsam quibusdam vitae et incidunt laborum totam veritatis nihil vel accusamus amet consequuntur architecto cupiditate odio modi ratione odit nesciunt harum, aperiam obcaecati cumque eaque quaerat eligendi. Quae, fugit dolorum animi ut ratione ea voluptatibus perspiciatis temporibus saepe. Voluptatibus, voluptates excepturi! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi dolores quam debitis eligendi nam praesentium doloremque sit sint voluptatibus natus perferendis, fuga incidunt voluptate consequuntur, reiciendis dolore alias rem. Ad, voluptatibus doloremque.",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates ipsam quibusdam vitae et incidunt laborum totam veritatis nihil vel accusamus amet consequuntur architecto cupiditate odio modi ratione odit nesciunt harum, aperiam obcaecati cumque eaque quaerat eligendi. Quae, fugit dolorum animi ut ratione ea voluptatibus perspiciatis temporibus saepe. Voluptatibus, voluptates excepturi! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi dolores quam debitis eligendi nam praesentium doloremque sit sint voluptatibus natus perferendis, fuga incidunt voluptate consequuntur, reiciendis dolore alias rem. Ad, voluptatibus doloremque.",
+      "author": "Mario",
+      "id": 3
+    }
+  ]
+}
